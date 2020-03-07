@@ -1,0 +1,4 @@
+MaxRepairCounter: 1000
+defaultMaxRepairCounter: 300
+Msg: '§e§l力量附魔已被魔法去除'
+time: 2
